@@ -1,3 +1,5 @@
+### To try the app go to https://kamalsayed.github.io/HackerRankJS/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kamalsayed/HackerRankJS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
