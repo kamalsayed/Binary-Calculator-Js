@@ -1,4 +1,8 @@
-### To try the app go to https://kamalsayed.github.io/HackerRankJS/
+## To try the app go to https://kamalsayed.github.io/HackerRankJS/
+
+##Working instructions
+1. operand 1 then operator then operand1 then finally Eql
+
 
 ## Welcome to GitHub Pages
 
