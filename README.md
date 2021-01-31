@@ -5,9 +5,10 @@
 2. operator
 3. operand 2
 4. Equal
- **Note**
- ## you can use the result of each operation as left hand side for the new operation
- ## wrong formats won't give you any input
+
+ ###**Note**
+ #### you can use the result of each operation as left hand side for the new operation
+ #### wrong formats won't give you any input
 
 
 ## Welcome to GitHub Pages
