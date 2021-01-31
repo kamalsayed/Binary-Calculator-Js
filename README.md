@@ -7,8 +7,9 @@
 4. Equal
 
  ## **Note**
- #### you can use the result of each operation as left hand side for the new operation
- #### wrong formats won't give you any input
+ #### 1- you can use the result of each operation as left hand side for the new operation
+ #### 2- wrong formats won't give you any input
+ #### 3- Division operation is and integer operation not binary
 
 
 
